@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LAPOR-PAK!</string>
+
+    //onboarding
+    <string name="page1">Call The Police</string>
+    <string name="page2">Call The Firefighter</string>
+    <string name="page3">Call The Ambulance</string>
+
+    <string name="page4">Anda dapat melapor ke Polisi dimanapun dan kapanpun saat anda memerlukan bantuan Polisi.</string>
+    <string name="page5">Anda dapat melapor ke Pemadam Kebakaran dimanapun dan kapanpun saat anda memerlukan bantuan Damkar.</string>
+    <string name="page6">Anda dapat melapor ke tenaga Medis dimanapun dan kapanpun saat anda memerlukan bantuan Medis.</string>
+
+    //page
+    <string name="header1">Selamat datang,</string>
+    <string name="header2">di LAPOR-PAK!</string>
+    <string name="header3">LAPOR-PAK!</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="signup">Sign up</string>
+    <string name="login2">Login ke akun Anda!</string>
+    <string name="signup2">Buat akun Anda!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="UU_Kesehatan">UU Repubik Indonesia No.36 Tahun 2009 Tentang Kesehatan</string>
+</resources>
